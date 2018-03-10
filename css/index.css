@@ -1,0 +1,20 @@
+.navbar{
+	opacity: 0.9;
+}
+.navbar .navbar-nav{
+	margin: 0 auto;
+}
+
+.navbar .nav-item a{
+	color: #FFA500 !important; 
+	font-size: 25px;
+}
+
+body {
+	font-family: 'Rammetto One', cursive;
+}
+
+.jumbotron{
+	margin-bottom: 0px;
+	padding-top: 160px;
+}
