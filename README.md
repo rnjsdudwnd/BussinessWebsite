@@ -1,6 +1,6 @@
 # BussinessWebsite
 
-03/10/2018
+03/10/2018 
 
 1. This website is made by Bootstrap 4.0
 Bootstrap is released under MIT license 
@@ -18,4 +18,4 @@ Unauthorized use and/ or duplication
 of this material without express is strictly prohibited in terms of Pictures in this website.
 
 4. Prototype by Young's purpose of studying Computer Science.
- Designed, built by Young and Maintained by ChineseHouse. 
+ Designed, built by Young and Maintained by ChineseHouse. link www.chinesehousehaochi.com
