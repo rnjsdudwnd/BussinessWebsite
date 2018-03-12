@@ -19,3 +19,5 @@ of this material without express is strictly prohibited in terms of Pictures in 
 
 4. Prototype by Young's purpose of studying Computer Science.
  Designed, built by Young and Maintained by ChineseHouse. link www.chinesehousehaochi.com
+
+5. March 12, 2018 This website is published. www.chinesehousehaochi.com
