@@ -21,3 +21,5 @@ of this material without express is strictly prohibited in terms of Pictures in 
  Designed, built by Young and Maintained by ChineseHouse. link www.chinesehousehaochi.com
 
 5. March 12, 2018 This website is published. www.chinesehousehaochi.com
+
+6. July 15, 2019 This website is closed.
